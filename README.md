@@ -3,7 +3,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [A Brief History of AWS](#a-brief-history-of-aws)
+- [A brief history of AWS](#a-brief-history-of-aws)
+- [Services pages](#services-pages)
+- [External references](#external-references)
 - [Contribution and Issues](#contribution-and-issues)
 
 ## Introduction
@@ -27,6 +29,18 @@ Even though this repository explains the cloud environment based on the AWS, at 
 Amazon was one of the pioneers in the Cloud environment. It started back in 2003, when the leaders of the development team at Amazon detected a big strength of the company: its infrastructure had a great potential to serve more than only Amazon operations. In 2006, they have launched the core blocks of AWS in the time, consisting of Simple Storage Service (S3), Elastic Compute Cloud (EC2) and Simple Queue Service (SQS). 
 
 Each year AWS service collection increases, as so its infrastructure related to the regions around the world, being specialized in delivering content with guaranteed scalability and disponibility. Today, AWS is used from small companies to the big techs like Netflix and Dropbox, making more than $110 billion of revenue to Amazon.
+
+## Services Pages
+
+#### Security
+
+- [IAM - Identity and Access Management](iam.md)
+
+## How AWS handles the infrastrucure
+
+- [How AWS handles the infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/)
+- [AWS services availability per region](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/)
+
 
 ## Contribution and Issues
 
